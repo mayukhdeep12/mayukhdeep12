@@ -8,6 +8,6 @@
 * 👀 Interests: Artificial Intelligence, Machine Learning, Full stack development, Graphic Design.
 * 😜 Hobbies: I love playing music and playing games.
 
-[![Mayukhdeep mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhdeep12)]
+[![Mayukhdeep mathur GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhdeep12)](https://github.com/mayukhdeep12)
 
 
