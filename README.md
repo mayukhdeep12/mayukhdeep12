@@ -1,6 +1,6 @@
 ### Hello, my name is Mayukhdeep Mathur
 
-* 🔭 I’m currently working on my personal website [mayukhdeepmathur.live]( https://mayukhdeep12.github.io/mayukhdeep-portfolio/) .
+* 🔭 I’m currently working on my personal website [mayukhdeepmathur.tech]( https://mayukhdeepmathur.tech) .
 * 🌱 I’m currently learning Python.
 * 👯 I’m looking for a full time job or an internship opportunities related to my skills.
 * 📫 How to reach me: LinkedIn - [@mayukhdeep-mathur](https://www.linkedin.com/in/mayukhdeep-mathur/) Polywork - [@mayukhdeep](https://www.polywork.com/mayukhdeep).
