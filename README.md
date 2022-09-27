@@ -8,3 +8,4 @@
 * 😜 Hobbies: I love playing music and playing games.
 
 
+[![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mayukhdeep12/github-readme-stats)
