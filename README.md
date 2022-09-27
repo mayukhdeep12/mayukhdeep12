@@ -1,6 +1,6 @@
-![Header](./[Your header image])
 
-![Header](./[[Your header image](https://user-images.githubusercontent.com/38530748/192462730-6e68231c-5e4e-41f0-bb4d-4416c6143c71.png)])
+
+![Header](https://user-images.githubusercontent.com/38530748/192462730-6e68231c-5e4e-41f0-bb4d-4416c6143c71.png)
 
 ### Hello, my name is Mayukhdeep Mathur
 
