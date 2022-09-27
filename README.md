@@ -7,5 +7,5 @@
 * 👀 Interests: Artificial Intelligence, Machine Learning, Full stack development, Graphic Design.
 * 😜 Hobbies: I love playing music and playing games.
 
+[![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayukhdeep12)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Mayukh's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/mayukhdeep12/github-readme-stats)
