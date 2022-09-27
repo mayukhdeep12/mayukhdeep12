@@ -1,3 +1,5 @@
+![Header](./[[Your header image](https://user-images.githubusercontent.com/38530748/192462730-6e68231c-5e4e-41f0-bb4d-4416c6143c71.png)])
+
 ### Hello, my name is Mayukhdeep Mathur
 
 * 🔭 I’m currently working on my personal website [mayukhdeepmathur.tech]( https://mayukhdeepmathur.tech) .
