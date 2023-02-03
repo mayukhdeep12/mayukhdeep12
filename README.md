@@ -65,11 +65,11 @@ Design / Editing
 </p>
 
 <p align="center">
-Design / Editing
+CI/CD
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
   </a>
 </p>
 
