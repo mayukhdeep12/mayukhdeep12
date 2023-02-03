@@ -38,11 +38,20 @@ Programming Languages
 </p>
 
 <p align="center">
-Programming Languages
+Framework / Libraries
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,next,vue,flutter" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,next,vue,flutter" />
+  </a>
+</p>
+
+<p align="center">
+Framework / Libraries
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,digitalocean,gcp" />
   </a>
 </p>
 
