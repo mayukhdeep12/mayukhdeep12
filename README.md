@@ -60,7 +60,7 @@ Design / Editing
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,ae" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,ae,blender" />
   </a>
 </p>
 
