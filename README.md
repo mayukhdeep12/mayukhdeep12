@@ -47,11 +47,11 @@ Framework / Libraries
 </p>
 
 <p align="center">
-Framework / Libraries
+Cloud Services / Databases
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,do,gcp,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,sql,mongodb" />
   </a>
 </p>
 
