@@ -51,7 +51,7 @@ Cloud Services / Databases
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,sql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mysql,mongodb" />
   </a>
 </p>
 
