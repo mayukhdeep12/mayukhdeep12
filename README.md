@@ -33,7 +33,7 @@ Programming Languages
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,dart,c++" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,dart,c,cpp" />
   </a>
 </p>
 
