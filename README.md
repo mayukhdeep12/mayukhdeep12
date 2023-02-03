@@ -65,8 +65,11 @@ Design / Editing
 </p>
 
 <p align="center">
+Design / Editing
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,aws,azure,blender,css,django,docker,figma,html,ai,java,js,kubernetes,mongodb,nodejs,ps,postman,py,pytorch,react,tensorflow,threejs,vue,xd,ae,flutter" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform" />
   </a>
 </p>
 
