@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,aws,azure,blender,css,django,docker,figma,html,ai,java,js,kubernetes,mongodb,nodejs,ps,postman,py,pytorch,react,tensorflow,threejs,vue,xd,ae,flutter&perline=3)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,aws,azure,blender,css,django,docker,figma,html,ai,java,js,kubernetes,mongodb,nodejs,ps,postman,py,pytorch,react,tensorflow,threejs,vue,xd,ae,flutter&perline=3)(https://skillicons.dev)
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=prussian)
