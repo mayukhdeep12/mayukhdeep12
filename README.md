@@ -42,7 +42,7 @@ Programming Languages
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch, tensorflow, react, next.js, vue, flutter" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,next.js,vue,flutter" />
   </a>
 </p>
 
