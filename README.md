@@ -1,6 +1,6 @@
 
 
-![Header](https://user-images.githubusercontent.com/38530748/192462730-6e68231c-5e4e-41f0-bb4d-4416c6143c71.png)
+![Header](https://user-images.githubusercontent.com/38530748/216719436-6c07c5b4-debe-4440-bf49-842867bdd205.gif)
 
 ### Hello, my name is Mayukhdeep Mathur
 
@@ -15,6 +15,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhdeep12&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-![MacBook Pro 16_ - 1 (1)](https://user-images.githubusercontent.com/38530748/216719436-6c07c5b4-debe-4440-bf49-842867bdd205.gif)
