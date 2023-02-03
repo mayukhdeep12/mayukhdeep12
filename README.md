@@ -42,7 +42,7 @@ Framework / Libraries
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,next,vue,flutter" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,next,vue,threejs,flutter" />
   </a>
 </p>
 
@@ -51,7 +51,7 @@ Framework / Libraries
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,digitalocean,gcp" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,do,gcp,mongodb" />
   </a>
 </p>
 
