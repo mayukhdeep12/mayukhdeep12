@@ -76,7 +76,7 @@ CI/CD
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhdeep12&show_icons=true&theme=prussian" />
 </a>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
+&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhdeep12&layout=compact&theme=prussian" />
 </a>
