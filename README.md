@@ -72,7 +72,7 @@ CI/CD
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
   </a>
 </p>
-&nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; &nbsp;   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
+
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhdeep12&show_icons=true&theme=prussian" />
 </a>
