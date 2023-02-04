@@ -3,9 +3,6 @@
 ![Header](https://user-images.githubusercontent.com/38530748/216719436-6c07c5b4-debe-4440-bf49-842867bdd205.gif)
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/mayukhdeep12/workflows/Test/badge.svg" />
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mayukhdeep12/github-readme-stats" />
     </a>
@@ -21,10 +18,18 @@
   </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />   
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" />   
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
+    <a href="https://leetcode.com/mayukhdeep/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />   
+    </a>
+    <a href="https://www.linkedin.com/in/mayukhdeep-mathur/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+    </a>
+    <a href="https://www.polywork.com/mayukhdeep">
+        <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" />   
+    </a>
+    <a href="https://twitter.com/MayukhdeepM">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> 
+    </a>
 </p>
 
 <br>
