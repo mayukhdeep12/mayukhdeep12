@@ -77,14 +77,9 @@ CI/CD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayukhdeep12&show_icons=true&theme=prussian" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayukhdeep12&layout=compact&theme=prussian" />
+</a>
