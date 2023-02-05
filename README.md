@@ -3,21 +3,6 @@
 ![Header](https://user-images.githubusercontent.com/38530748/216719436-6c07c5b4-debe-4440-bf49-842867bdd205.gif)
 
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/mayukhdeep12/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/mayukhdeep12/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/mayukhdeep12/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/mayukhdeep12/github-readme-stats?color=0088ff" />
-    </a>
-  </p>
-
-<p align="center">
     <a href="https://leetcode.com/mayukhdeep/">
         <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />   
     </a>
