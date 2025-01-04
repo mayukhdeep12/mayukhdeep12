@@ -26,7 +26,7 @@ Framework / Libraries
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,next,vue,threejs,flutter" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,next,vue,threejs,flutter,androidstudio" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ Design / Editing
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae,blender,unreal, unity" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae,blender,unreal,unity" />
   </a>
 </p>
 
