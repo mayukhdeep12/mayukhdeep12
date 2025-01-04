@@ -26,7 +26,7 @@ Framework / Libraries
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nodejs,next,vue,threejs,flutter,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,django,flask,react,nodejs,next,vue,threejs,flutter,androidstudio" />
   </a>
 </p>
 
