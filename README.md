@@ -35,7 +35,7 @@ Cloud Services / Databases
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,postgres,mysql" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ Design / Editing
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae,blender,unreal,unity" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae,webflow,blender,unreal,unity" />
   </a>
 </p>
 
@@ -57,14 +57,6 @@ CI/CD
   </a>
 </p>
 
-<p align="center">
-CI/CD
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=webflow" />
-  </a>
-</p>
 <br>
 
 
