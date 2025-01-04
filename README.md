@@ -44,7 +44,7 @@ Design / Editing
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,xd,figma,ae,blender" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae,blender,unreal, unity" />
   </a>
 </p>
 
@@ -56,6 +56,16 @@ CI/CD
     <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
   </a>
 </p>
+
+<p align="center">
+CI/CD
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=webflow" />
+  </a>
+</p>
 <br>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
