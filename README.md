@@ -17,7 +17,7 @@ Programming Languages
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js, rust, solidity ,java,dart,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,js,rust,solidity,java,dart,c,cpp" />
   </a>
 </p>
 
