@@ -1,6 +1,9 @@
 
 
-![Header](https://user-images.githubusercontent.com/38530748/216719436-6c07c5b4-debe-4440-bf49-842867bdd205.gif)
+<h1 align="center">Hello, I'm Mayukhdeep Mathur</h1>
+<h3 align="center">I'm an AI Engineer with strong expertise in Python 🐍, and experience in GoLang and JavaScript. I specialize in building and deploying deep learning models to solve complex real-world problems. My interests lie at the intersection of AI, Data Science, and Web Development.</h3>
+
+<p align="center">🔭 I’m currently open to work in role of <b>Data Scientist</b> and <b>Machine Learning Engineer</b>.</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/mayukhdeep-mathur/">
