@@ -20,7 +20,7 @@ Programming Languages
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,rust,solidity,java,dart,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,go,java,c,cpp" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Framework / Libraries
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,django,flask,react,nodejs,next,vue,threejs,flutter,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,django,flask,react,nodejs,next,vue,threejs,androidstudio" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@ Design / Editing
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae,webflow,blender,unreal,unity" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae,webflow,blender,unreal" />
   </a>
 </p>
 
@@ -56,7 +56,7 @@ CI/CD
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins" />
   </a>
 </p>
 
