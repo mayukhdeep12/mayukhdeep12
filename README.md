@@ -80,8 +80,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" width="40" alt="Terraform" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jenkins.png" width="40" alt="Jenkins" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" width="40" alt="Grafana" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ci_cd.png" width="40" alt="CI/CD" />
-  <img src="https://skillicons.dev/icons?i=githubactions" width="120" alt="githubactions" />
+  <img src="https://skillicons.dev/icons?i=githubactions" width="40" alt="githubactions" />
   
 </p>
 <p align="center"><b>Tools & Technologies</b></p>
