@@ -31,7 +31,8 @@
   <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" />
   <img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="ScikitLearn" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/langchain_icon.png" width="40" alt="LangChain" />
-  <img src="https://camo.githubusercontent.com/35c8690644d21b455613e70f617eee193be16e02684824dc60be8ab1216eed6c/68747470733a2f2f6c616e67636861696e2d61692e6769746875622e696f2f6c616e6767726170682f7374617469632f776f72646d61726b5f6461726b2e737667" width="180" alt="LangGraph" />
+  <img src="https://github.com/user-attachments/assets/71c976ec-9243-4d85-85c4-e9a0b660e73a" width="40" alt="LangGraph" />
+
   <img src="https://skillicons.dev/icons?i=opencv" width="40" alt="OpenCV" />
   <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-ultralytics-hub.png" width="40" alt="Ultralytics" />
   <img src="https://github.com/user-attachments/assets/10e16a77-fc3c-4f8a-8ff5-36b2e9c2df29" width="80" alt="MLFlow" />
