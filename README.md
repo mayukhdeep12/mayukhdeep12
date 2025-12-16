@@ -94,8 +94,6 @@
   
 </p>
 
-<img width="1024" height="1024" alt="n8n-color" src="https://github.com/user-attachments/assets/d18da152-4a8a-4ba8-ba10-7c6d47113990" />
-
 <br>
 
 
