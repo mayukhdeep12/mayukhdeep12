@@ -88,10 +88,14 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.png" width="40" alt="Figma" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/blender.png" width="40" alt="Blender" />
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,discord" width="120" alt="Adobe & Discord" />
-  <span>A-Frame · Zapier · N8N · ClickUp · ComfyUI</span>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,discord" width="180" alt="Adobe & Discord" />
+  <img src="https://github.com/user-attachments/assets/d18da152-4a8a-4ba8-ba10-7c6d47113990" width="40" alt="N8N" />
+  <img src="https://substackcdn.com/image/fetch/$s_!ykMS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3634ced-a308-41ba-ba31-fc795976fd12_512x512.png" width="40" alt="Comfy UI" />
+    
+  
 </p>
 
+<img width="1024" height="1024" alt="n8n-color" src="https://github.com/user-attachments/assets/d18da152-4a8a-4ba8-ba10-7c6d47113990" />
 
 <br>
 
