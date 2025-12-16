@@ -32,23 +32,18 @@
   <img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="ScikitLearn" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/langchain_icon.png" width="40" alt="LangChain" />
   <img src="https://github.com/user-attachments/assets/71c976ec-9243-4d85-85c4-e9a0b660e73a" width="40" alt="LangGraph" />
-
   <img src="https://skillicons.dev/icons?i=opencv" width="40" alt="OpenCV" />
   <img src="https://github.com/ultralytics/assets/raw/main/partners/logo-ultralytics-hub.png" width="40" alt="Ultralytics" />
   <img src="https://github.com/user-attachments/assets/10e16a77-fc3c-4f8a-8ff5-36b2e9c2df29" width="80" alt="MLFlow" />
   <img src="https://github.com/user-attachments/assets/bb646fc3-a47c-4001-bbc7-f5ed89c44a49" width="40" alt="Kubeflow" />
   <img src="https://cdn.prod.website-files.com/66cf2bfc3ed15b02da0ca770/66d07240057721394308addd_Logo%20(1).svg" width="80" alt="CrewAI" />
-
-
-  <!-- Other AI libs (text labels) -->
-  <span>Ultralytics · MLflow · Kubeflow · CrewAI · LangGraph</span>
 </p>
 <p align="center"><b>Frontend Development</b></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" width="40" alt="React" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" width="40" alt="Next.js" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vue_js.png" width="40" alt="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind,threejs,webgl" width="40" alt="Tailwind, Three.js, WebGL" />
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs,webgl" width="100" alt="Tailwind, Three.js, WebGL" />
 </p>
 <p align="center">
   VTK.js
