@@ -63,10 +63,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redis.png" width="40" alt="Redis" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kafka.png" width="40" alt="Kafka" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sqlite.png" width="40" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" width="40" alt="ScikitLearn" />
-</p>
-<p align="center">
-  Firebase · Supabase · SQL
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" width="120" alt="Firebase, Supabase" />
 </p>
 <p align="center"><b>Cloud Platforms</b></p>
 <p align="center">
@@ -74,7 +71,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" width="40" alt="GCP" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoft_azure.png" width="40" alt="Azure" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/digital_ocean.png" width="40" alt="DigitalOcean" />
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,heroku" width="40" alt="Netlify, Vercel, Heroku" />
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,heroku" width="120" alt="Netlify, Vercel, Heroku" />
 </p>
 <p align="center"><b>DevOps & Infrastructure</b></p>
 <p align="center">
@@ -84,16 +81,15 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jenkins.png" width="40" alt="Jenkins" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" width="40" alt="Grafana" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ci_cd.png" width="40" alt="CI/CD" />
-</p>
-<p align="center">
-  GitHub Actions
+  <img src="https://skillicons.dev/icons?i=githubactions" width="120" alt="githubactions" />
+  
 </p>
 <p align="center"><b>Tools & Technologies</b></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" alt="Git" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.png" width="40" alt="Figma" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/blender.png" width="40" alt="Blender" />
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,discord" width="40" alt="Adobe & Discord" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,discord" width="120" alt="Adobe & Discord" />
   <span>A-Frame · Zapier · N8N · ClickUp · ComfyUI</span>
 </p>
 
