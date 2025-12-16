@@ -15,49 +15,54 @@
 </p>
 
 <br>
+<p align="center"><b>Programming Languages</b></p>
 <p align="center">
-Programming Languages
+  <img src="https://skillicons.dev/icons?i=py,js,ts,go,r,c" />
+</p>
+<p align="center"><b>AI & Machine Learning</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,go,r,c" />
-  </a>
+  LangChain · LangGraph · CrewAI · Ultralytics · MLflow · Kubeflow
 </p>
-
+<p align="center"><b>Frontend Development</b></p>
 <p align="center">
-Framework / Libraries
+  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,threejs,webgl" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,react,nodejs,next,vue,threejs" />
-  </a>
+  VTK.js
 </p>
-
+<p align="center"><b>Backend Development</b></p>
 <p align="center">
-Cloud Services / Databases
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,postgres,mysql,redis,supabase,firebase" />
-  </a>
+  RESTful APIs
 </p>
-
+<p align="center"><b>Databases & Message Queue</b></p>
 <p align="center">
-Design / Editing
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,kafka" />
 </p>
+<p align="center"><b>Cloud Platforms</b></p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,figma,ae,webflow,blender,unreal" />
-  </a>
-</p>
-
-<p align="center">
-CI/CD
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean,netlify,vercel,heroku" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins" />
-  </a>
+  AWS: EC2 · S3 · Lambda · EBS · Bedrock · SageMaker<br/>
+  GCP: Compute Engine · Cloud Storage · Vertex AI<br/>
+  Azure: VMs · Blob Storage · Functions
+</p>
+<p align="center"><b>DevOps & Infrastructure</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,grafana" />
+</p>
+<p align="center"><b>Tools & Technologies</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,figma,blender,photoshop,illustrator,premiere,aftereffects,discord" />
+</p>
+<p align="center">
+  A-Frame · 8thWall · Make · Zapier · n8n · ClickUp · ComfyUI
 </p>
 
 <br>
