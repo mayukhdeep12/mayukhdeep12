@@ -29,7 +29,7 @@ Framework / Libraries
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,django,flask,react,nodejs,next,vue,threejs,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,flask,react,nodejs,next,vue,threejs" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Cloud Services / Databases
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,postgres,mysql" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mongodb,postgres,mysql,redis,supabase,firebase" />
   </a>
 </p>
 
