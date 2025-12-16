@@ -63,7 +63,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redis.png" width="40" alt="Redis" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kafka.png" width="40" alt="Kafka" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sqlite.png" width="40" alt="SQLite" />
-  <img src="https://skillicons.dev/icons?i=firebase,supabase" width="120" alt="Firebase, Supabase" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" width="70" alt="Firebase, Supabase" />
 </p>
 <p align="center"><b>Cloud Platforms</b></p>
 <p align="center">
