@@ -44,10 +44,10 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" width="40" alt="Next.js" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vue_js.png" width="40" alt="Vue.js" />
   <img src="https://skillicons.dev/icons?i=tailwind,threejs,webgl" width="120" alt="Tailwind, Three.js, WebGL" />
+  <img src="https://www.kitware.com/main/wp-content/uploads/2019/08/vtk_js.png" width="40" alt="VTK.js" />
+   
 </p>
-<p align="center">
-  VTK.js
-</p>
+
 <p align="center"><b>Backend Development</b></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" width="40" alt="Node.js" />
