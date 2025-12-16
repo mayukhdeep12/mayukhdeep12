@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" width="40" alt="React" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" width="40" alt="Next.js" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vue_js.png" width="40" alt="Vue.js" />
-  <img src="https://skillicons.dev/icons?i=tailwind,threejs,webgl" width="100" alt="Tailwind, Three.js, WebGL" />
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs,webgl" width="140" alt="Tailwind, Three.js, WebGL" />
 </p>
 <p align="center">
   VTK.js
