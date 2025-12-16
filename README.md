@@ -32,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" />
   <img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="ScikitLearn" />
   <img src="https://skillicons.dev/icons?i=opencv" width="40" alt="OpenCV" />
+  <img src="https://www.g2.com/products/ultralytics/reviews" width="40" alt="Ultralytics" />
+  
   <!-- Other AI libs (text labels) -->
   <span>Ultralytics · MLflow · Kubeflow · CrewAI · LangGraph</span>
 </p>
