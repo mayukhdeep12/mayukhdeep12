@@ -15,55 +15,84 @@
 </p>
 
 <br>
+
 <p align="center"><b>Programming Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,go,r,c" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="40" alt="Python" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" width="40" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/go.png" width="40" alt="Go" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c++.png" width="40" alt="C++" />
 </p>
 <p align="center"><b>AI & Machine Learning</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,python" />
-</p>
-<p align="center">
-  LangChain · LangGraph · CrewAI · Ultralytics · MLflow · Kubeflow
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/tensorflow.png" width="40" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/langchain_icon.png" width="40" alt="LangChain" />
+  <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch" />
+  <img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="ScikitLearn" />
+  <img src="https://skillicons.dev/icons?i=opencv" width="40" alt="OpenCV" />
+  <!-- Other AI libs (text labels) -->
+  <span>Ultralytics · MLflow · Kubeflow · CrewAI · LangGraph</span>
 </p>
 <p align="center"><b>Frontend Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,threejs,webgl" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/react.png" width="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/next_js.png" width="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vue_js.png" width="40" alt="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind,threejs,webgl" width="40" alt="Tailwind, Three.js, WebGL" />
 </p>
 <p align="center">
   VTK.js
 </p>
 <p align="center"><b>Backend Development</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
-</p>
-<p align="center">
-  RESTful APIs
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" width="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/express.png" width="40" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/fastapi.png" width="40" alt="FastAPI" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png" width="40" alt="Flask" />
 </p>
 <p align="center"><b>Databases & Message Queue</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase,kafka" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mongodb.png" width="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" width="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" width="40" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redis.png" width="40" alt="Redis" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kafka.png" width="40" alt="Kafka" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sqlite.png" width="40" alt="SQLite" />
+</p>
+<p align="center">
+  Firebase · Supabase · SQL
 </p>
 <p align="center"><b>Cloud Platforms</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean,netlify,vercel,heroku" />
-</p>
-<p align="center">
-  AWS: EC2 · S3 · Lambda · EBS · Bedrock · SageMaker<br/>
-  GCP: Compute Engine · Cloud Storage · Vertex AI<br/>
-  Azure: VMs · Blob Storage · Functions
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/aws.png" width="40" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/gcp.png" width="40" alt="GCP" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/microsoft_azure.png" width="40" alt="Azure" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/digital_ocean.png" width="40" alt="DigitalOcean" />
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,heroku" width="40" alt="Netlify, Vercel, Heroku" />
 </p>
 <p align="center"><b>DevOps & Infrastructure</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,grafana" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" width="40" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kubernetes.png" width="40" alt="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/terraform.png" width="40" alt="Terraform" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/jenkins.png" width="40" alt="Jenkins" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/grafana.png" width="40" alt="Grafana" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ci_cd.png" width="40" alt="CI/CD" />
+</p>
+<p align="center">
+  GitHub Actions
 </p>
 <p align="center"><b>Tools & Technologies</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,figma,blender,photoshop,illustrator,premiere,aftereffects,discord" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" width="40" alt="Git" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/figma.png" width="40" alt="Figma" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/blender.png" width="40" alt="Blender" />
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,premiere,aftereffects,discord" width="40" alt="Adobe & Discord" />
+  <span>A-Frame · Zapier · N8N · ClickUp · ComfyUI</span>
 </p>
-<p align="center">
-  A-Frame · 8thWall · Make · Zapier · n8n · ClickUp · ComfyUI
-</p>
+
 
 <br>
 
