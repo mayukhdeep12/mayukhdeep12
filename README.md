@@ -63,6 +63,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/redis.png" width="40" alt="Redis" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/kafka.png" width="40" alt="Kafka" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/sqlite.png" width="40" alt="SQLite" />
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" width="40" alt="ScikitLearn" />
 </p>
 <p align="center">
   Firebase · Supabase · SQL
