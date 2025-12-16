@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" width="40" alt="Python" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" width="40" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/typescript.png" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/r.png" width="40" alt="R" />
+    <img src="https://skillicons.dev/icons?i=r" width="40" alt="R" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/go.png" width="40" alt="Go" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/c.png" width="40" alt="C" />
 </p>
